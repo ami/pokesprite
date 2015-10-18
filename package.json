@@ -1,0 +1,29 @@
+{
+  "__prettyName": "Pokésprite",
+  "name": "pokesprite",
+  "version": "1.0.0",
+  "description": "Pokémon image sprite generator",
+  "main": "pokesprite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msikma/pokesprite"
+  },
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "argparse": "^1.0.2",
+    "babel": "5.8.23",
+    "babel-core": "5.8.25",
+    "babel-eslint": "^4.1.3",
+    "babel-runtime": "5.8.25",
+    "eslint": "^1.7.1",
+    "eslint-config-airbnb": "0.1.0",
+    "eslint-plugin-babel": "^2.1.1",
+    "glob": "^5.0.15",
+    "jimp": "^0.2.9",
+    "repo-v": "^1.0.3"
+  }
+}
