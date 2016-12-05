@@ -282,7 +282,8 @@
       "jpn": "koratta"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Rattata",
@@ -297,7 +298,8 @@
       "jpn": "ratta"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Raticate",
@@ -397,7 +399,8 @@
       "jpn": "raichu"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Raichu",
@@ -412,7 +415,8 @@
       "jpn": "sand"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Sandshrew",
@@ -427,7 +431,8 @@
       "jpn": "sandpan"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Sandslash",
@@ -566,7 +571,8 @@
       "jpn": "rokon"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Vulpix",
@@ -581,7 +587,8 @@
       "jpn": "kyukon"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Ninetales",
@@ -765,7 +772,8 @@
       "jpn": "digda"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Diglett",
@@ -780,7 +788,8 @@
       "jpn": "dugtrio"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Dugtrio",
@@ -795,7 +804,8 @@
       "jpn": "nyarth"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Meowth",
@@ -810,7 +820,8 @@
       "jpn": "persian"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Persian",
@@ -1130,7 +1141,8 @@
       "jpn": "ishitsubute"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Geodude",
@@ -1145,7 +1157,8 @@
       "jpn": "golone"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Graveler",
@@ -1160,7 +1173,8 @@
       "jpn": "golonya"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Golem",
@@ -1341,7 +1355,8 @@
       "jpn": "betbeter"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Grimer",
@@ -1356,7 +1371,8 @@
       "jpn": "betbeton"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Muk",
@@ -1569,7 +1585,8 @@
       "jpn": "nassy"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Exeggutor",
@@ -1599,7 +1616,8 @@
       "jpn": "garagara"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "alola": {}
     },
     "name": {
       "eng": "Marowak",
@@ -11305,6 +11323,978 @@
       "eng": "Volcanion",
       "jpn": "\u30dc\u30eb\u30b1\u30cb\u30aa\u30f3",
       "jpn_ro": "Volcanion"
+    }
+  },
+  "722": {
+    "idx": 722,
+    "slug": {
+      "eng": "rowlet"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Rowlet"
+    }
+  },
+  "723": {
+    "idx": 723,
+    "slug": {
+      "eng": "dartrix"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Dartrix"
+    }
+  },
+  "724": {
+    "idx": 724,
+    "slug": {
+      "eng": "decidueye"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Decidueye"
+    }
+  },
+  "725": {
+    "idx": 725,
+    "slug": {
+      "eng": "litten"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Litten"
+    }
+  },
+  "726": {
+    "idx": 726,
+    "slug": {
+      "eng": "torracat"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Torracat"
+    }
+  },
+  "727": {
+    "idx": 727,
+    "slug": {
+      "eng": "incineroar"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Incineroar"
+    }
+  },
+  "728": {
+    "idx": 728,
+    "slug": {
+      "eng": "popplio"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Popplio"
+    }
+  },
+  "729": {
+    "idx": 729,
+    "slug": {
+      "eng": "brionne"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Brionne"
+    }
+  },
+  "730": {
+    "idx": 730,
+    "slug": {
+      "eng": "primarina"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Primarina"
+    }
+  },
+  "731": {
+    "idx": 731,
+    "slug": {
+      "eng": "pikipek"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Pikipek"
+    }
+  },
+  "732": {
+    "idx": 732,
+    "slug": {
+      "eng": "trumbeak"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Trumbeak"
+    }
+  },
+  "733": {
+    "idx": 733,
+    "slug": {
+      "eng": "toucannon"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Toucannon"
+    }
+  },
+  "734": {
+    "idx": 734,
+    "slug": {
+      "eng": "yungoos"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Yungoos"
+    }
+  },
+  "735": {
+    "idx": 735,
+    "slug": {
+      "eng": "gumshoos"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Gumshoos"
+    }
+  },
+  "736": {
+    "idx": 736,
+    "slug": {
+      "eng": "grubbin"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Grubbin"
+    }
+  },
+  "737": {
+    "idx": 737,
+    "slug": {
+      "eng": "charjabug"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Charjabug"
+    }
+  },
+  "738": {
+    "idx": 738,
+    "slug": {
+      "eng": "vikavolt"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Vikavolt"
+    }
+  },
+  "739": {
+    "idx": 739,
+    "slug": {
+      "eng": "crabrawler"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Crabrawler"
+    }
+  },
+  "740": {
+    "idx": 740,
+    "slug": {
+      "eng": "crabominable"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Crabominable"
+    }
+  },
+  "741": {
+    "idx": 741,
+    "slug": {
+      "eng": "oricorio"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Oricorio"
+    }
+  },
+  "742": {
+    "idx": 742,
+    "slug": {
+      "eng": "cutiefly"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Cutiefly"
+    }
+  },
+  "743": {
+    "idx": 743,
+    "slug": {
+      "eng": "ribombee"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Ribombee"
+    }
+  },
+  "744": {
+    "idx": 744,
+    "slug": {
+      "eng": "rockruff"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Rockruff"
+    }
+  },
+  "745": {
+    "idx": 745,
+    "slug": {
+      "eng": "lycanroc"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Lycanroc"
+    }
+  },
+  "746": {
+    "idx": 746,
+    "slug": {
+      "eng": "wishiwashi"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Wishiwashi"
+    }
+  },
+  "747": {
+    "idx": 747,
+    "slug": {
+      "eng": "mareanie"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Mareanie"
+    }
+  },
+  "748": {
+    "idx": 748,
+    "slug": {
+      "eng": "toxapex"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Toxapex"
+    }
+  },
+  "749": {
+    "idx": 749,
+    "slug": {
+      "eng": "mudbray"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Mudbray"
+    }
+  },
+  "750": {
+    "idx": 750,
+    "slug": {
+      "eng": "mudsdale"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Mudsdale"
+    }
+  },
+  "751": {
+    "idx": 751,
+    "slug": {
+      "eng": "dewpider"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Dewpider"
+    }
+  },
+  "752": {
+    "idx": 752,
+    "slug": {
+      "eng": "araquanid"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Araquanid"
+    }
+  },
+  "753": {
+    "idx": 753,
+    "slug": {
+      "eng": "fomantis"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Fomantis"
+    }
+  },
+  "754": {
+    "idx": 754,
+    "slug": {
+      "eng": "lurantis"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Lurantis"
+    }
+  },
+  "755": {
+    "idx": 755,
+    "slug": {
+      "eng": "morelull"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Morelull"
+    }
+  },
+  "756": {
+    "idx": 756,
+    "slug": {
+      "eng": "shiinotic"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Shiinotic"
+    }
+  },
+  "757": {
+    "idx": 757,
+    "slug": {
+      "eng": "salandit"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Salandit"
+    }
+  },
+  "758": {
+    "idx": 758,
+    "slug": {
+      "eng": "salazzle"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Salazzle"
+    }
+  },
+  "759": {
+    "idx": 759,
+    "slug": {
+      "eng": "stufful"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Stufful"
+    }
+  },
+  "760": {
+    "idx": 760,
+    "slug": {
+      "eng": "bewear"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Bewear"
+    }
+  },
+  "761": {
+    "idx": 761,
+    "slug": {
+      "eng": "bounsweet"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Bounsweet"
+    }
+  },
+  "762": {
+    "idx": 762,
+    "slug": {
+      "eng": "steenee"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Steenee"
+    }
+  },
+  "763": {
+    "idx": 763,
+    "slug": {
+      "eng": "tsareena"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Tsareena"
+    }
+  },
+  "764": {
+    "idx": 764,
+    "slug": {
+      "eng": "comfey"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Comfey"
+    }
+  },
+  "765": {
+    "idx": 765,
+    "slug": {
+      "eng": "oranguru"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Oranguru"
+    }
+  },
+  "766": {
+    "idx": 766,
+    "slug": {
+      "eng": "passimian"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Passimian"
+    }
+  },
+  "767": {
+    "idx": 767,
+    "slug": {
+      "eng": "wimpod"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Wimpod"
+    }
+  },
+  "768": {
+    "idx": 768,
+    "slug": {
+      "eng": "golisopod"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Golisopod"
+    }
+  },
+  "769": {
+    "idx": 769,
+    "slug": {
+      "eng": "sandygast"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Sandygast"
+    }
+  },
+  "770": {
+    "idx": 770,
+    "slug": {
+      "eng": "palossand"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Palossand"
+    }
+  },
+  "771": {
+    "idx": 771,
+    "slug": {
+      "eng": "pyukumuku"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Pyukumuku"
+    }
+  },
+  "772": {
+    "idx": 772,
+    "slug": {
+      "eng": "type-null"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Type: Null"
+    }
+  },
+  "773": {
+    "idx": 773,
+    "slug": {
+      "eng": "silvally"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Silvally"
+    }
+  },
+  "774": {
+    "idx": 774,
+    "slug": {
+      "eng": "minior"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Minior"
+    }
+  },
+  "775": {
+    "idx": 775,
+    "slug": {
+      "eng": "komala"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Komala"
+    }
+  },
+  "776": {
+    "idx": 776,
+    "slug": {
+      "eng": "turtonator"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Turtonator"
+    }
+  },
+  "777": {
+    "idx": 777,
+    "slug": {
+      "eng": "togedemaru"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Togedemaru"
+    }
+  },
+  "778": {
+    "idx": 778,
+    "slug": {
+      "eng": "mimikyu"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Mimikyu"
+    }
+  },
+  "779": {
+    "idx": 779,
+    "slug": {
+      "eng": "bruxish"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Bruxish"
+    }
+  },
+  "780": {
+    "idx": 780,
+    "slug": {
+      "eng": "drampa"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Drampa"
+    }
+  },
+  "781": {
+    "idx": 781,
+    "slug": {
+      "eng": "dhelmise"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Dhelmise"
+    }
+  },
+  "782": {
+    "idx": 782,
+    "slug": {
+      "eng": "jangmo-o"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Jangmo-o"
+    }
+  },
+  "783": {
+    "idx": 783,
+    "slug": {
+      "eng": "hakamo-o"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Hakamo-o"
+    }
+  },
+  "784": {
+    "idx": 784,
+    "slug": {
+      "eng": "kommo-o"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Kommo-o"
+    }
+  },
+  "785": {
+    "idx": 785,
+    "slug": {
+      "eng": "tapu-koko"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Tapu Koko"
+    }
+  },
+  "786": {
+    "idx": 786,
+    "slug": {
+      "eng": "tapu-lele"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Tapu Lele"
+    }
+  },
+  "787": {
+    "idx": 787,
+    "slug": {
+      "eng": "tapu-bulu"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Tapu Bulu"
+    }
+  },
+  "788": {
+    "idx": 788,
+    "slug": {
+      "eng": "tapu-fini"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Tapu Fini"
+    }
+  },
+  "789": {
+    "idx": 789,
+    "slug": {
+      "eng": "cosmog"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Cosmog"
+    }
+  },
+  "790": {
+    "idx": 790,
+    "slug": {
+      "eng": "cosmoem"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Cosmoem"
+    }
+  },
+  "791": {
+    "idx": 791,
+    "slug": {
+      "eng": "solgaleo"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Solgaleo"
+    }
+  },
+  "792": {
+    "idx": 792,
+    "slug": {
+      "eng": "lunala"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Lunala"
+    }
+  },
+  "793": {
+    "idx": 793,
+    "slug": {
+      "eng": "nihilego"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Nihilego"
+    }
+  },
+  "794": {
+    "idx": 794,
+    "slug": {
+      "eng": "buzzwole"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Buzzwole"
+    }
+  },
+  "795": {
+    "idx": 795,
+    "slug": {
+      "eng": "pheromosa"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Pheromosa"
+    }
+  },
+  "796": {
+    "idx": 796,
+    "slug": {
+      "eng": "xurkitree"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Xurkitree"
+    }
+  },
+  "797": {
+    "idx": 797,
+    "slug": {
+      "eng": "celesteela"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Celesteela"
+    }
+  },
+  "798": {
+    "idx": 798,
+    "slug": {
+      "eng": "kartana"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Kartana"
+    }
+  },
+  "799": {
+    "idx": 799,
+    "slug": {
+      "eng": "guzzlord"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Guzzlord"
+    }
+  },
+  "800": {
+    "idx": 800,
+    "slug": {
+      "eng": "necrozma"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Necrozma"
+    }
+  },
+  "801": {
+    "idx": 801,
+    "slug": {
+      "eng": "magearna"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Magearna"
+    }
+  },
+  "802": {
+    "idx": 802,
+    "slug": {
+      "eng": "marshadow"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Marshadow"
     }
   }
 }

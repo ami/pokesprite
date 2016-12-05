@@ -7,8 +7,27 @@ count = 0
 x = -40
 y = -30
 
-data.each do |id, pokemon|
+item_x = -30
+item_y = -30
+love_ball_x = 41
+love_ball_y = 15
+love_ball_y_offset = -2
 
+puts <<-EOF
+.pkicon {
+  @include crisp-rendering();
+
+  display: inline-block;
+  height: 30px;
+  width: 40px;
+  margin: 5px 0;
+  background-image: url('/pokesprite.png');
+  background-repeat: no-repeat;
+}
+
+EOF
+
+data.each do |id, pokemon|
   pokemon["icons"].each do |name, icon|
     form = name == "." ? "" : ".form-#{name}"
 
@@ -41,3 +60,7 @@ data.each do |id, pokemon|
     end
   end
 end
+
+puts
+
+puts ".pkicon.pkicon-ball-love { background-position: #{item_x * love_ball_x}px #{y * (count / count_per_row).floor + item_y * love_ball_y + love_ball_y_offset}px; }"
