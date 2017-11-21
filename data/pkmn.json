@@ -12279,7 +12279,8 @@
       "eng": "magearna"
     },
     "icons": {
-      ".": {}
+      ".": {},
+      "original": {}
     },
     "name": {
       "eng": "Magearna"
