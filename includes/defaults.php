@@ -89,7 +89,7 @@ $s['etc_icon_sets'] = array(
 );
 
 // Pokémon icon width
-$s['pkmn_img_width'] = 40;
+$s['pkmn_img_width'] = 50;
 // Pokémon icon height
 $s['pkmn_img_height'] = 30;
 // Amount of icons in one row of the sprite

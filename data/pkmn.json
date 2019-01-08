@@ -12374,5 +12374,30 @@
       "jpn": "\u30bc\u30e9\u30aa\u30e9",
       "jpn_ro": "Zeraora"
     }
+  },
+  "808": {
+    "idx": 808,
+    "slug": {
+      "eng": "meltan"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Meltan"
+    }
+  },
+  "809": {
+    "idx": 809,
+    "slug": {
+      "eng": "melmetal"
+    },
+    "icons": {
+      ".": {}
+    },
+    "name": {
+      "eng": "Melmetal"
+    },
+    "full": true
   }
 }
